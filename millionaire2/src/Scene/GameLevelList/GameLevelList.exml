@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameLevelLists" width="485" height="637" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" states=" score">
+	<e:Image source="bg_png" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0" />
+	<e:Image id="btn7"  name="btn7" source="lcok_png" y="318.5" anchorOffsetY="0" height="207" horizontalCenter="-127" x="30" />
+	<e:Image id="btn8"  name="btn8" source="lcok_png" y="318.5" anchorOffsetY="0" height="207" horizontalCenter="66" />
+	<e:Image id="btn6"  name="btn6" source="lcok_png" y="163.5" anchorOffsetY="0" height="207" horizontalCenter="161" x="10" />
+	<e:Image id="btn5"  name="btn5" source="lcok_png" y="163.5" anchorOffsetY="0" height="207" horizontalCenter="1" x="10" />
+	<e:Image id="btn4"  name="btn4" source="lcok_png" y="163.5" anchorOffsetY="0" height="207" horizontalCenter="-160" x="10"  top="0"/>
+	<e:Image id="btn2"  name="btn2" source="lcok_png" anchorOffsetY="0" height="207" horizontalCenter="0" top="0" />
+	<e:Image id="btn1" name="btn1" source="unlock_png" anchorOffsetY="0" height="207" left="0" top="0"  left.score="-2" top.score="0"/>
+	<e:Image id="btn3"  name="btn3" source="lcok_png" anchorOffsetY="0" height="207" right="0" top="0" />
+	<e:Image id="backBtn" source="back_png" y="541" horizontalCenter="0" />
+</e:Skin>

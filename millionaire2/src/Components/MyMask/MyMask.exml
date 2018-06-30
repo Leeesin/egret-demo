@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="604" height="483" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="loseBg_png" x="95" y="101" anchorOffsetY="0" height="327"/>
+	<e:Image id="listBtn" source="list_png" x="157" y="276" name="list"/>
+	<e:Image id="retryBtn" source="retry_png" x="327" y="277" name="retry"/>
+	<e:Label id="title" text="" x="202.5" y="174" anchorOffsetX="0" width="172" anchorOffsetY="0" height="37" textAlign="center"/>
+</e:Skin>

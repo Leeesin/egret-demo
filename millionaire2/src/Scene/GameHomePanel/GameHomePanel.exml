@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameHomePanels" width="425" height="705" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bg_png" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0"/>
+	<e:Image source="bg_1_png" x="0" y="0" anchorOffsetX="0" width="424" anchorOffsetY="0" height="409"/>
+	<e:Image id="btnPlay" y="473" horizontalCenter="0" source="btnPlay_png"/>
+</e:Skin>
